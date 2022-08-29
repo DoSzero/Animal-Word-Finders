@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AnimalWordFinders</string>
+    <string name="find">Найдите следующие слова :</string>
+
+    <string name="worlds_1">Авдотка</string>
+    <string name="worlds_2">Бабакотии</string>
+    <string name="worlds_3">Варакушка</string>
+
+    <string name="worlds_4">Гаур</string>
+    <string name="worlds_5">Дабб</string>
+    <string name="worlds_6">Енот</string>
+</resources>
